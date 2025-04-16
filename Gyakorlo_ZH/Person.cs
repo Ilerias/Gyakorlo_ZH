@@ -1,6 +1,6 @@
 ﻿namespace Gyakorlo_ZH
 {
-    internal class Person
+    public class Person
     {
         public string Name { get; set; } = String.Empty;
         public int Age { get; set; }
